@@ -1,0 +1,14 @@
+.app {
+    background: #6b469a;
+    padding: 50px;
+    height: 100vh;
+    display: flex;
+
+}
+
+.todo-list {
+    background: #e8e8e8;
+    padding: 5px;
+    width: 80vw;
+    max-height: 80vh;
+}
